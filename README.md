@@ -15,7 +15,6 @@ Before this, I worked at Chugai Pharma Manufacturing Co., in the Quality Assuran
 ### 📊 GitHub Stats  
 [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jizots)](https://github.com/evirunurm/github-stats)
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jizots&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jizots&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
   
