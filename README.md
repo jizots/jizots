@@ -26,8 +26,4 @@ Before this, I worked at Chugai Pharma Manufacturing Co., in the Quality Assuran
 ### 📈 Activity Graph  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jizots&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jizots&theme=dark&utcOffset=8)
-  
-  
-### 🔥 Streak Stats  
-[![](https://activity-graph.herokuapp.com/graph?username=jizots&theme=github)](https://activity-graph.herokuapp.com/graph?username=jizots&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=jizots&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=jizots&theme=dark)
+
