@@ -9,7 +9,7 @@ Before this, I worked at Chugai Pharma Manufacturing Co., in the Quality Assuran
   
   
 ### 🚀 My Projects and Achievements  
-42: level 5
+42: level 7
   
   
 ### 📊 GitHub Stats  
