@@ -1,8 +1,7 @@
-### Welcome to My GitHub Profile! 👋  
-Hi!  
+### My Profile
 I've been learning programming at 42 Tokyo since May 2023.　  
 Before this, I worked at Chugai Pharma Manufacturing Co., in the Quality Assurance and Manufacturing Department.  
-  
+
   
 ### 🌟 My Interests and Technologies  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jizots&theme=dark)
