@@ -13,7 +13,6 @@
   
   
 ### 📊 GitHub Stats  
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jizots)](https://github.com/evirunurm/github-stats)
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jizots&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
