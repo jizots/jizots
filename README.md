@@ -3,7 +3,8 @@
 2013.10 ~ 2016.12 中外製薬工業(株)に転籍し、治験薬を製造  
 2017.01 ~ 2023.01 品質保証部門でサイトQA  
 2023.02 42Tokyo Piscine  
-2023.05 ~ 42Tokyoで学習   
+2023.05 42Tokyo Cursus
+2024.12 ~ 中外製薬工業（株） 品質システム導入プロジェクト/ビジネスアーキテクト
   
 # 代表的なプロジェクト(言語：概要)
 - C：Bash-like Shell
@@ -19,7 +20,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jizots&theme=dark)
   
 # 興味のある分野  
-- デジタルシステムの導入
+- デジタルシステムの導入（TrackWise/VeevaQMS/Training system)
 - ブロックチェーン
 - 低レイヤープログラミング  
   
